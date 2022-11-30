@@ -1,5 +1,5 @@
 # My Microsoft Security DevOps (MSDO) Terrascan workflow
-name: MSDO windows-latest
+name: Run Microsoft Security DevOps - MSDO windows-latest
 on:
   workflow_dispatch:
 
